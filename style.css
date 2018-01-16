@@ -1,0 +1,24 @@
+body {
+	font-family: 'Shadows Into Light Two', cursive;
+	background-color: #FFF0F5;					 
+
+}
+
+/*nav bar*/
+.navbar {
+	
+	background-color:#FFB6C1;
+}
+
+
+/*jumbotron*/
+.jumbotron {
+	background-color:#FFB6C1;
+	font-family: 'Shadows Into Light Two', cursive;
+	text-align: center;
+}
+
+/*footer*/
+.blog-footer { 
+	background-color: #FFB6C1;
+ }
